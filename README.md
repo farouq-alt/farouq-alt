@@ -31,17 +31,16 @@ A comprehensive resource management system designed for the National School of C
 ---
 
 ### 🧠 Development Approach & Soft Skills
-* **Problem Solving:** Strong algorithmic logic with a focus on project management from conception to deployment.
+* **Agile Methodology:** Committed to iterative development, sprint planning, and rapid prototyping.
 * **Technical Rigor:** Committed to organizational excellence, curious learning, and collaborative teamwork (Freelance & Academic).
 * **Creative Workflow:** Expertise in integrating 2D Pixel Art (sprites) and 3D Blender assets into functional web environments.
-* **Language Proficiency:** Arabic (Native), French (Bilingual), and English (Intermediate/B1).
 
 ---
 
 ### 🎓 Education & Certifications
-* **Digital Development (Full-Stack)**, ISTA Ait Melloul (2024–2026)
-* **Physics (Electronic Track)**, Ibn Zohr University (2020–2024)
-* **Baccalaureat in Physical Sciences**, Lycée AL FASSIHE (2019–2020)
+* **Digital Development (Full-Stack)**, ISTA Ait Melloul
+* **Physics (Electronic Track)**, Ibn Zohr University 
+* **Baccalaureat in Physical Sciences**, Lycée AL FASSIHE 
 
 
 
