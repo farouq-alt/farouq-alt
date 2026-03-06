@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-🔭 **I'm currently working on:** [Your current project]
-👯 **I'm looking to collaborate on:** Open source projects and innovative web apps
-🤝 **I'm looking for help with:** Scaling applications and UI/UX design
-🌱 **I'm currently learning:** Advanced System Design and AI Integration
-💬 **Ask me about:** Web development, JavaScript/TypeScript, and building products
+* 🔭 **I'm currently working on:** `ecobacprepa`
+* 👯 **I'm looking to collaborate on:** Game dev projects, Open source projects, and Modern web apps.
+* 🌱 **I'm currently learning:** * Advanced System Design & 3D Web Tech.
+    * **Game Dev:** Advanced pathfinding systems and AI mechanics.
+    * **Database Security:** Data encryption, secure storage solutions, and data integrity.
 
 ---
 
