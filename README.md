@@ -11,6 +11,40 @@
 # 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/farouq_joudate)
+
+---
+
+# 🚀 Featured Projects
+
+### BIM Moroccan Design — 3D Asset Marketplace
+A specialized platform for the hosting and interactive visualization of architectural 3D models.
+* **Infrastructure:** Leveraged Cloudflare R2 and Workers for high-performance large-scale object storage and edge-side processing.
+* **Visualization:** Integrated Google Model Viewer for real-time, interactive 3D object rendering (GLB, OBJ) in-browser.
+* **UX/UI Design:** Directed the artistic vision and frontend architecture, prioritizing user experience and responsive design.
+
+### ENCG Barakat — Full-Stack Educational Platform
+A comprehensive resource management system designed for the National School of Commerce and Management.
+* **Backend & Security:** Configured and secured Firebase Realtime Database rules and restructurated storage via Cloudflare.
+* **Admin Architecture:** Developed a complete administrative dashboard featuring full CRUD capabilities and complex business logic.
+* **Frontend Refactoring:** Led the UI overhaul, improving styles and overall interface responsiveness for student users.
+
+---
+
+### 🧠 Development Approach & Soft Skills
+* **Problem Solving:** Strong algorithmic logic with a focus on project management from conception to deployment.
+* **Technical Rigor:** Committed to organizational excellence, curious learning, and collaborative teamwork (Freelance & Academic).
+* **Creative Workflow:** Expertise in integrating 2D Pixel Art (sprites) and 3D Blender assets into functional web environments.
+* **Language Proficiency:** Arabic (Native), French (Bilingual), and English (Intermediate/B1).
+
+---
+
+### 🎓 Education & Certifications
+* **Digital Development (Full-Stack)**, ISTA Ait Melloul (2024–2026)
+* **Physics (Electronic Track)**, Ibn Zohr University (2020–2024)
+* **Baccalaureat in Physical Sciences**, Lycée AL FASSIHE (2019–2020)
+
+
+
 ---
 
 # 💻 Tech Stack
