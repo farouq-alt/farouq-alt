@@ -1,4 +1,4 @@
-# Farouq Joudate
+# Mohamed Farouq Joudate
 
 Full-stack developer interested in web platforms, interactive systems, and game development.  
 I enjoy building practical tools, experimenting with new technologies, and working on projects that combine software, graphics, and real-time interaction.
